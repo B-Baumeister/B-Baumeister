@@ -1,6 +1,10 @@
+![hi](https://t4.ftcdn.net/jpg/03/60/70/11/360_F_360701167_9dolp6h5cfm5i9uC8QObRzhog1mc1gI0.jpg)
 # Hi there and welcome on my Git-Account 😊
 
-My name is Bonnie and I have started my new life as a web developer!
+My name is Bonnie and I´m now a web developer!
+
+## **What I want**
+I want to change my live and want to start a new carreer in a impression world of webdeveloping!
 
 
 ## **Other experience**
