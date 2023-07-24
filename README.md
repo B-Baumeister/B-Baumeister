@@ -1,5 +1,14 @@
 # Hi there and welcome on my Git-Account 😊
 
+My name is Bonnie and I have started my new life as a web developer!
+
+
+## **Other experience**
+- Grafic design (Adobe Illustrator, Indesign, Photoshop)
+- 3D developing of cloth (CLO, vStitcher)
+- 2D CAD Systems for Cloth (Gerber, Lectra, Grafis)
+
+  
 <!--
 **B-Baumeister/B-Baumeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
