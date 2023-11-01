@@ -1,6 +1,6 @@
 ![hintergrund tastatur](https://github.com/B-Baumeister/B-Baumeister/assets/128323709/9f876175-c59f-4761-bf13-5a95a2aef0e9)
 
-# Hi there and welcome on my Git-Account 😊
+# Hi there and welcome to my GitHub-Account 😊
 
 My name is Bonnie and I will be a web developer NOW!
 ## Currently I am learning:
